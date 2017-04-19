@@ -1,21 +1,39 @@
+.google-center{
+  width: inherit;
+  margin-top: 10%;
+}
+
+
 .google-search{
-  position: absolute;
-  top: 40%;
-  left: 42%;
-
-
+  position: relative;
+  top: 30%;
+  left: 40%;
+  padding: 10px;
 }
 
 .google-buttons{
-  position: absolute;
+  position: relative;
   font-size: 1em;
-  top: 45%;
-  left: 48%;
-  transform: translate(-48%);
+  top: 50%;
+  left: 40%;
+}
+
+
+.google-logo{
+  margin: auto;
+  margin-left: 25%;
+}
+
+.google-nav{
+  margin-left: 85%;
+}
+
+.google-nav a {
+  text-decoration: none;
+  color: black;
 
 }
 
-.google-logo{
-  margin-left: 350px;
-  margin-bottom: 40px;
+.google-nav a:hover{
+  text-decoration: underline;
 }
