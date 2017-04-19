@@ -25,7 +25,7 @@
 }
 
 .google-nav{
-  margin-left: 85%;
+  margin-left: 80%;
 }
 
 .google-nav a {
@@ -36,4 +36,15 @@
 
 .google-nav a:hover{
   text-decoration: underline;
+}
+
+.sign-up-btn{
+    background-color: blue;
+    border: none;
+    color: white;
+    padding: 4px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
 }
