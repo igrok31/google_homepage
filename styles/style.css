@@ -1,3 +1,8 @@
+.container{
+  font-family: 'Noto Sans', sans-serif;
+}
+
+
 .google-center{
   width: inherit;
   margin-top: 10%;
@@ -9,6 +14,7 @@
   top: 30%;
   left: 40%;
   padding: 10px;
+
 }
 
 .google-buttons{
@@ -26,6 +32,10 @@
 
 .google-nav{
   margin-left: 80%;
+  text align: center;
+  vertical-align: middle;
+  line-height: 50px;
+
 }
 
 .google-nav a {
