@@ -56,7 +56,6 @@
 
 .google-nav li{
   display: inline;
-
 }
 
 
@@ -88,8 +87,41 @@
   right: 0;
   bottom: 0;
   left: 0;
-  text-align: center;
   background-color: #efefef;
   border-top: solid 0.5px #cccccc;
-  padding: 3px;
+  padding: 5px;
+  color: #4d4d4d;
+}
+
+.google-footer ul{
+
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.google-footer ul li{
+  display: inline-block;
+  margin: 0 12px;
+}
+
+.google-footer ul li a{
+  text-decoration: none;
+  color: #4d4d4d;
+}
+
+.google-footer ul li a:hover{
+  text-decoration: underline;
+}
+
+.left-stuff{
+  float: left;
+  margin-left: 20px;
+  font-size: 12px;
+}
+
+.right-stuff{
+  float: right;
+  margin-right: 20px;
+  font-size: 12px;
 }
